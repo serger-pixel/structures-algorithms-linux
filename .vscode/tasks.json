@@ -7,9 +7,9 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${fileDirname}/../main.cpp",
+                "main.cpp",
                 "-o",
-                "${fileDirname}/../main"
+                "main"
             ],
             "options": {
                 "cwd": "${fileDirname}"
